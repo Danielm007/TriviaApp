@@ -1,0 +1,22 @@
+.flex {
+  display: flex;
+  flex-direction: column;
+  max-height: auto;
+  justify-content: space-between;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+  padding: 10px 0;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.list {
+  max-width: 100%;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
